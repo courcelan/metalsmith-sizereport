@@ -20,7 +20,7 @@
   "homepage": "https://github.com/courcelan/metalsmith-sizereport",
   "dependencies": {
     "cli-table": "^0.3.1",
-    "gulp-util": "^3.0.0",
+    "chalk": "^1.0.0",
     "gzip-size": "^1.0.0",
     "pretty-bytes": "^1.0.1"
   },
