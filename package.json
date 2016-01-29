@@ -1,0 +1,31 @@
+{
+  "name": "metalsmith-sizereport",
+  "version": "0.0.1",
+  "description": "metalsmith file size report, based on https://github.com/jaysalvat/gulp-sizereport",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/courcelan/metalsmith-sizereport"
+  },
+  "keywords": [
+    "metalsmith",
+    "gzip",
+    "filesize"
+  ],
+  "author": "Cobey Potter",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/courcelan/metalsmith-sizereport/issues"
+  },
+  "homepage": "https://github.com/courcelan/metalsmith-sizereport",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "gulp-util": "^3.0.0",
+    "gzip-size": "^1.0.0",
+    "pretty-bytes": "^1.0.1",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "metalsmith": "^0.8.1"
+  }
+}
