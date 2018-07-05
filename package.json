@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-sizereport",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "metalsmith file size report, based on https://github.com/jaysalvat/gulp-sizereport",
   "main": "lib/index.js",
   "repository": {
